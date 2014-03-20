@@ -1,0 +1,1 @@
+based on object oriented socket was build Client/Server sample application
